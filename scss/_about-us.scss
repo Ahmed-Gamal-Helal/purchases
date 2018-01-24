@@ -64,3 +64,16 @@
 
     }
 }
+.buyers {
+    background-color: #f7f7f7;
+    padding-bottom: 2em;
+    margin: 4em 0 1em 0;
+    .container {
+        .row {
+            padding: 2em 0;
+            img {
+                padding: .75em;
+            }
+        }
+    }
+}

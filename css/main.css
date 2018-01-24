@@ -266,6 +266,15 @@ ul.nav-tabs li .active {
     width: 100%;
     border: 1px solid #EEE; }
 
+.buyers {
+  background-color: #f7f7f7;
+  padding-bottom: 2em;
+  margin: 4em 0 1em 0; }
+  .buyers .container .row {
+    padding: 2em 0; }
+    .buyers .container .row img {
+      padding: .75em; }
+
 /*** End About Us ***/
 /** Start Smiles */
 .smiles-2 {
